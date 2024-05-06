@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556259600165",
+    "project_id": "fir-recapp",
+    "storage_bucket": "fir-recapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556259600165:android:305c99bb32685711eddccc",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JhNsZIAks698OJvkG_6FQAMAwYAfxFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
